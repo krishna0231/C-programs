@@ -1,6 +1,6 @@
-#include<stdi
+#include<stdio.h>
 
- int man(){
-    printf("hello world);
+ int main(){
+    printf("hello world");
     return 0;
  }
