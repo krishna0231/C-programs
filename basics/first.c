@@ -1,5 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     printf("Hello devs i am krishna");
 }
