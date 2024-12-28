@@ -3,4 +3,5 @@
 int main()
 {
     printf("Hello there testing");
+    return zero;
 }
