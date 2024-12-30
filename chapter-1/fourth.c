@@ -2,11 +2,8 @@
 #include<conio.h>
 int main (){
     int a=5;
-    printf("enter 5");
+    printf("enter a");
     scanf("%d", &a);
-    printf("area is : &d", 5*5);
+    printf("area is : &d", a*a);
     return 0;
-
-
-
 }
