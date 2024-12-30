@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/wintech/Documents/GitHub/C-programs",
-      "program": "c:/Users/wintech/Documents/GitHub/C-programs/build/Debug/outDebug",
+      "cwd": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1",
+      "program": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
