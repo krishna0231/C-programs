@@ -1,6 +1,8 @@
 {
   "version": "0.2.0",
   "configurations": [
+    Debug
+    C
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
