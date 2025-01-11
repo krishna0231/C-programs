@@ -1,6 +1,16 @@
 {
   "version": "0.2.0",
   "configurations": [
+    {
+      "type": "lldb",
+      "request": "attach",
+      "name": "Attach",
+      "program": "${workspaceFolder}/<program>"
+    },
+    
+
+
+
     Debug
     C
     {
@@ -13,6 +23,7 @@
       "cwd": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1",
       "program": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1/build/Debug/outDebug",
       "MIMode": "gdb",
+
       "miDebuggerPath": "gdb",
       "setupCommands": [
         {
