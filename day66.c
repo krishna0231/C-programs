@@ -4,6 +4,6 @@
 int main()
 {
     int i; float f; char c;
-    printf("fint,float and char size are:%d%d%d",sizeof(i), sizeof(i),sizeof(f),sizeof(c) );
+    printf("int,float and char size are:%d%d%d",sizeof(i), sizeof(i),sizeof(f),sizeof(c) );
     return 0;
 }
