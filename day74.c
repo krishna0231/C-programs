@@ -7,9 +7,9 @@ int main ()
     //clrscr();
    
     printf(" enter height of triangle:");
-    scanf("%f",height);
+    scanf("%f",&height);
     printf("\nenter base of a triangle");
-    scanf("%f",base);
+    scanf("%f",&base);
     area=0.5*height*base;
     printf("\narea of triangle is : %.2f",area);
     getch();
