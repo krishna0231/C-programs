@@ -9,7 +9,7 @@ printf("\nb=%d",b);
 printf("\nb=%d",++b); //b=b+1 and a is return after addition
 printf("\nb=%d",--b); //b=b-1 and b is return after substraction
 printf("\nb=%d",b++); //first value return and then incremented or decremented
-printf("\nb=%d",b--);
+printf("\n=%d",b--);
 
 getch();
 return 0;
