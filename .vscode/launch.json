@@ -1,22 +1,6 @@
 {
-  "version": "0
-
-    {
-      "name": "(Windows) Launch",
-      "type": "cppvsdbg",
-      "request": "launch",
-      "program": "enter program name, for example ${workspaceFolder}/a.exe",
-      "args": [],
-      "stopAtEntry": false,
-      "cwd": "${fileDirname}",
-      "environment": [],
-      "console": "externalTerminal",
-      "configurations": [
-      
-      ]
-    }
-    Debug
-    C
+  "version": "0.2.0",
+  "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -24,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1",
-      "program": "c:/Users/wintech/Documents/GitHub/C-programs/.vscode/chapter-1/build/Debug/outDebug",
+      "cwd": "c:/Users/wintech/.vscode/C-programs",
+      "program": "c:/Users/wintech/.vscode/C-programs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
