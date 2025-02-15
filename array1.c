@@ -13,6 +13,6 @@ int main()
     printf("\t a[%d]=%d",i,a[i]); // array output
     getch();
 
-    return 0;P
+    return 0;
     
 }
