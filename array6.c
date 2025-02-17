@@ -7,7 +7,9 @@ int main()
      {
         for(int j=0;j<4;j++)
         {
-     }
-     printf("The values of %d,%d elements of the array is %d\n",i,marks[i]);
-   return 0;
+     
+     printf("The values of %d,%d elements of the array is %d\n",i,marks[i][j]);
+    }
+}
+return 0;
 }
