@@ -1,0 +1,14 @@
+                                                                                                                                                                                          int matrix[2][3],i,j;
+                                                                                                                                                                                  // write a program that reads s matrix 2*3 from user and display it to screen
+                                                                                                                                                                                    #include<stdio.h>
+                                                                                                                                                                                    int main()
+                                                                                                                                                                                    {
+                                                                                                                                                                                        for(i=0;i<2;i++)
+                                                                                                                                                                                        for(j=0;j<2;j++)
+                                                                                                                                                                                        {
+                                                                                                                                                                                            printf("enter the matrix[%d][%d]:
+                                                                                                                                                                        ")
+                                                                                                                                                                                        }
+
+.                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                                                                                        
