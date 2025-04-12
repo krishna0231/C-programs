@@ -6,17 +6,17 @@ int isprime(int n)
     {
         if(n%i==0)
            return 0;
-        else;
+        else
 
-           return 1
+           return 1;
     }
     }
-    inrt main()
+    int main()
     {
         int n;
         printf("enter a numner :");
         scanf("%d",&n);
-        if(isprinme(n))
+        if(isprime(n))
         {
             printf("%d is prime number",n);
         }
